@@ -1,0 +1,11 @@
+{
+  "name": "test-gulp-stylelint",
+  "version": "0.0.1",
+  "author": "Xfive",
+  "description": "test-stylelint",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.3.0",
+    "gulp-stylelint": "^3.9.0"
+  }
+}
